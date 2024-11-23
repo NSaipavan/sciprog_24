@@ -1,0 +1,75 @@
+commit e31f860520b78bd0d4c87715429d7e006ef61f9f
+Author: NSaipavan <saipavan20202@gmail.com>
+Date:   Tue Nov 19 22:33:39 2024 +0000
+
+    Added practical 9 files
+
+commit f6e711ae589b47edf1fe089d4f175a0ad38240f0
+Merge: b9fe083 a962d75
+Author: NSaipavan <saipavan20202@gmail.com>
+Date:   Thu Nov 14 20:51:24 2024 +0000
+
+    Merge branch 'main' of https://github.com/NSaipavan/sciprog_24
+
+commit b9fe083f1be5338f96338a25bc53c1eac6af9f96
+Author: NSaipavan <saipavan20202@gmail.com>
+Date:   Thu Nov 14 20:50:31 2024 +0000
+
+    Add all practical files to new repository
+
+commit 890c84469d2f268a297237e292241eb5ed2fa61d
+Author: NSaipavan <saipavan20202@gmail.com>
+Date:   Thu Nov 14 19:28:10 2024 +0000
+
+    Added practical files
+
+commit a962d751e4a2e6e07028e1fd216ac1e0f134d57b
+Author: NSaipavan <saipavan20202@gmail.com>
+Date:   Thu Nov 14 18:36:13 2024 +0000
+
+    Create README.md
+    
+    Saipavan Narayanasamy - 24233785
+
+commit f7ddd89b02b68db3556d11554fc893d411561e47
+Author: saipavanF42 <76173139+saipavanF42@users.noreply.github.com>
+Date:   Sun Nov 3 16:58:16 2024 +0000
+
+    Practical 3
+
+commit c1d92bce606967f92e4b8fb202508320b8040b4d
+Author: saipavanF42 <76173139+saipavanF42@users.noreply.github.com>
+Date:   Sun Nov 3 16:57:07 2024 +0000
+
+    Add files via upload
+
+commit 1e42935a5fa01b1e50615007296c8cac5eca65ba
+Author: saipavanF42 <76173139+saipavanF42@users.noreply.github.com>
+Date:   Sun Nov 3 16:55:24 2024 +0000
+
+    Create Readme.md
+
+commit 2921f395be1a321bf6eedf485611ffece01de08c
+Author: unknown <saipavan20202@gmail.com>
+Date:   Sun Nov 3 17:20:41 2024 +0000
+
+    Practical 4
+
+commit 3734a7ee9a184aa757701007c709e26766d65b1d
+Merge: a4a8bf5 9e76007
+Author: unknown <saipavan20202@gmail.com>
+Date:   Sun Nov 10 21:02:52 2024 +0000
+
+    adding practical7
+
+commit a4a8bf592f3b8245283411ea797bc24e572d54ff
+Author: unknown <saipavan20202@gmail.com>
+Date:   Sun Nov 10 18:16:57 2024 +0000
+
+    Adding practical7 to gitrepository
+
+commit 9e760079ca0f54d0f90492e36b40a9a09f876a01
+Author: unknown <saipavan20202@gmail.com>
+Date:   Sun Nov 3 17:36:12 2024 +0000
+
+    Adding files
