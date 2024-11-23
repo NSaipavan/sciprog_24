@@ -2,6 +2,7 @@
 
 **Author:** Saipavan Narayanasamy  
 **Register Number:** 24233785  
+**University:** University College Dublin
 
 This repository is created for the **Scientific Programming** module to document my progress and work on various practical exercises. I implemented programs that focus on core programming concepts and numerical methods throughout the semester.  
 
